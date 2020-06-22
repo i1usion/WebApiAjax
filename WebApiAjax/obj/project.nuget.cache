@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "x7TeJRDJ46EaDXtgPlqyeldzRh94WTcMSItdXGhdHz68axHWop+qrhYIJHexRA3Hnfe/WffBnJbjgh0XABowUA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ramba\\source\\repos\\1\\WebApiAjax\\WebApiAjax\\WebApiAjax.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ramba\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
